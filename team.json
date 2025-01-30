@@ -1,0 +1,70 @@
+{
+    "team": [
+      {
+        "ID": 1,
+        "name": "Joyanta Roy",
+        "designation": "Chairman/President & CEO",
+        "description": "Mr. Joyanta Roy is a result-driven leader with over 30 years of global experience in evaluation, research, and organizational development. As the co-founder of CBSG in 2003, he has led 300+ consultancies in Bangladesh and over 10 countries across South and Central Asia. He has strong skill in managing large-scale evaluations, research, and long-term organizational development projects. Under his leadership, CBSG expanded internationally in 2022 with an office in Canada. Mr. Roy has successfully partnered with organizations like USAID, USDA, USDOS, USDOL, DANIDA, ICF, UN agencies, SDC, GIZ, and Facebook Inc. He holds a postgraduate degree in Statistics and Econometrics from the University of Dhaka and advanced certifications in DAC/OECH and utilization-focused evaluation techniques and organizational development from Canada and the USA.",
+        "photo": "#VALUE!",
+        "social_accounts": {
+          "facebook": "",
+          "linkedin": "https://www.linkedin.com/in/joyanta-roy-75611123",
+          "twitter": ""
+        },
+        "prioritize": 1
+      },
+      {
+        "ID": 2,
+        "name": "Shafia Tahmida",
+        "designation": "Bangladesh Program Manager",
+        "description": "Ms. Shafia Tahmida leads CBSG's Bangladesh program, overseeing management functions and contributing to organizational development, research, and data analysis projects at both national and international levels. With a postgraduate degree in Statistics, she has a strong foundation in statistical methods, data analysis, and experimental design. Renowned for her exceptional data analysis skills, Shafia is in-genius in statistical software like STATA, SPSS and qualitative data analysis package MAXQDA. She is also adept at programming and managing data collection platforms, including SurveyCTO, GDQS, and Kobo.",
+        "photo": "#VALUE!",
+        "social_accounts": {
+          "facebook": "",
+          "linkedin": "https://www.linkedin.com/in/shafiatahmida",
+          "twitter": ""
+        },
+        "prioritize": 2
+      },
+      {
+        "ID": 3,
+        "name": "Al-Amin Shishir",
+        "designation": "Lead, Organizational Development (OD) & Training",
+        "description": "Mr. Al-Amin Shishir is an accomplished Organizational Development professional with over a decade of expertise in institutional capacity assessment, capacity building, policy development, strategic planning, and performance management. As the Lead for Organizational Development at CBSG, he drives evidence-based interventions that have strengthened numerous organizations. A Fellow of BOLD and member of ISODC, he is also an IFC-LPI Certified Facilitator, renowned for delivering impactful training. Mr. Shishir has provided 100+ OD consultancy services to NGOs, INGOs, government agencies, and private entities, including USAID, Save the Children, GIZ, and Plan International. He facilitated over 40 OCA sessions for high-profile civil society organizations, universities, and public institutions.",
+        "photo": "#VALUE!",
+        "social_accounts": {
+          "facebook": "",
+          "linkedin": "https://www.linkedin.com/in/al-amin-shishir",
+          "twitter": ""
+        },
+        "prioritize": 3
+      },
+      {
+        "ID": 4,
+        "name": "Fojila Khanom",
+        "designation": "Lead, Women, Youth and Child Development",
+        "description": "Fojila Khanom is the lead of the Gender, Child Protection, Human Trafficking, and Women Empowerment Unit at CBSG. She holds a postgraduate degree in social sciences from the University of Dhaka. Fojila has managed over ten high-profile evaluation and organizational development projects focused on gender, child protection, and women empowerment. She possesses exceptional skills in gender auditing and mainstreaming gender in development institutions and projects. Her professional career includes experience with Transparency International and USAID-funded projects on governance and human rights. Fojila dedicates her expertise to safeguarding women and children from violence and sexual abuse through organizational and research assignments.",
+        "photo": "#VALUE!",
+        "social_accounts": {
+          "facebook": "",
+          "linkedin": "",
+          "twitter": ""
+        },
+        "prioritize": 4
+      },
+      {
+        "ID": 5,
+        "name": "Rabiul Islam",
+        "designation": "Data Analyst",
+        "description": "Mr. Rabiul works as a Data Analyst at CBSG. He completed his undergrad studies at the Khulna University of Engineering and Technology with a passion for Data science. With an extensive experience in data analytics gained from working on international projects, he brings innovative research, data analysis and visualization techniques to his role at CBSG. He has also worked as a short-term data analyst on USAID projects. Mr. Rabiul has a strong professional capacity for data collection app development and Excel-based programming. He possesses excellent skills in developing data collection apps using SurveyCTO, KOBOTool Box, and Ona, and skilled in STATA and SPSS for quantitative data analysis.",
+        "photo": "#VALUE!",
+        "social_accounts": {
+          "facebook": "",
+          "linkedin": "https://www.linkedin.com/in/rabiul777",
+          "twitter": ""
+        },
+        "prioritize": 5
+      }
+    ]
+  }
+  
